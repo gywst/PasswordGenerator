@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="quick_and_dirty_password_generator">Quick and Dirty Password Generator</string>
+</resources>
